@@ -1,0 +1,1622 @@
+[
+  {
+    "transactionId": "TXN001",
+    "customerId": "CUST008",
+    "firstName": "Ananya",
+    "lastName": "Das",
+    "productPurchased": "Cable Organizer",
+    "purchaseDate": "01-04-2026",
+    "price": 89.99999
+  },
+  {
+    "transactionId": "TXN002",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "01-04-2026",
+    "price": 75
+  },
+  {
+    "transactionId": "TXN003",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Webcam",
+    "purchaseDate": "01-04-2026",
+    "price": 200.43
+  },
+  {
+    "transactionId": "TXN004",
+    "customerId": "CUST002",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "02-04-2026",
+    "price": 113.61
+  },
+  {
+    "transactionId": "TXN005",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Mousepad",
+    "purchaseDate": "02-04-2026",
+    "price": 149.58
+  },
+  {
+    "transactionId": "TXN006",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "03-04-2026",
+    "price": 162.79
+  },
+  {
+    "transactionId": "TXN007",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Noise Cancelling Headphones",
+    "purchaseDate": "03-04-2026",
+    "price": 245.82
+  },
+  {
+    "transactionId": "TXN008",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "03-04-2026",
+    "price": 40.93
+  },
+  {
+    "transactionId": "TXN009",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "03-04-2026",
+    "price": 79.73
+  },
+  {
+    "transactionId": "TXN010",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "External SSD",
+    "purchaseDate": "03-04-2026",
+    "price": "68.73"
+  },
+  {
+    "transactionId": "TXN011",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "04-04-2026",
+    "price": 141.96
+  },
+  {
+    "transactionId": "TXN012",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "04-04-2026",
+    "price": 236.38
+  },
+  {
+    "transactionId": "TXN013",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "05-04-2026",
+    "price": 241.93
+  },
+  {
+    "transactionId": "TXN014",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "Webcam",
+    "purchaseDate": "05-04-2026",
+    "price": 150.71
+  },
+  {
+    "transactionId": "TXN015",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "Mechanical Keyboard",
+    "purchaseDate": "06-04-2026",
+    "price": 194.82
+  },
+  {
+    "transactionId": "TXN016",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "06-04-2026",
+    "price": 154.73
+  },
+  {
+    "transactionId": "TXN017",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "06-04-2026",
+    "price": 33.35
+  },
+  {
+    "transactionId": "TXN018",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Webcam",
+    "purchaseDate": "07-04-2026",
+    "price": 21.5
+  },
+  {
+    "transactionId": "TXN019",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Graphics Tablet",
+    "purchaseDate": "07-04-2026",
+    "price": 61.98
+  },
+  {
+    "transactionId": "TXN020",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "07-04-2026",
+    "price": 59.2
+  },
+  {
+    "transactionId": "TXN021",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "07-04-2026",
+    "price": 191.82
+  },
+  {
+    "transactionId": "TXN022",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "08-04-2026",
+    "price": 12.24
+  },
+  {
+    "transactionId": "TXN023",
+    "customerId": "CUST004",
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "09-04-2026",
+    "price": 205.52
+  },
+  {
+    "transactionId": "TXN024",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "USB-C Hub",
+    "purchaseDate": "09-04-2026",
+    "price": 143.97
+  },
+  {
+    "transactionId": "TXN025",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "09-04-2026",
+    "price": 33.88
+  },
+  {
+    "transactionId": "TXN026",
+    "customerId": "CUST004",
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "09-04-2026",
+    "price": 147.9
+  },
+  {
+    "transactionId": "TXN027",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "Cable Organizer",
+    "purchaseDate": "09-04-2026",
+    "price": 20.05
+  },
+  {
+    "transactionId": "TXN028",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "10-04-2026",
+    "price": 108.58
+  },
+  {
+    "transactionId": "TXN029",
+    "customerId": "CUST008",
+    "firstName": "Ananya",
+    "lastName": "Das",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "10-04-2026",
+    "price": 164.35
+  },
+  {
+    "transactionId": "TXN030",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "10-04-2026",
+    "price": 78.15
+  },
+  {
+    "transactionId": "TXN031",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "11-04-2026",
+    "price": 44.65
+  },
+  {
+    "transactionId": "TXN032",
+    "customerId": "CUST015",
+    "firstName": "Manoj",
+    "lastName": "Mehta",
+    "productPurchased": "Mousepad",
+    "purchaseDate": "11-04-2026",
+    "price": 132.81
+  },
+  {
+    "transactionId": "TXN033",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Graphics Tablet",
+    "purchaseDate": "12-04-2026",
+    "price": 35.78
+  },
+  {
+    "transactionId": "TXN034",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "13-04-2026",
+    "price": 232.82
+  },
+  {
+    "transactionId": "TXN035",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "USB-C Hub",
+    "purchaseDate": "14-04-2026",
+    "price": 27.78
+  },
+  {
+    "transactionId": "TXN036",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "External SSD",
+    "purchaseDate": "14-04-2026",
+    "price": 25.9
+  },
+  {
+    "transactionId": "TXN037",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "15-04-2026",
+    "price": 65.65
+  },
+  {
+    "transactionId": "TXN038",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Webcam",
+    "purchaseDate": "17-04-2026",
+    "price": 244.5
+  },
+  {
+    "transactionId": "TXN039",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "Mechanical Keyboard",
+    "purchaseDate": "17-04-2026",
+    "price": 213.7
+  },
+  {
+    "transactionId": "TXN040",
+    "customerId": "CUST003",
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "productPurchased": "Noise Cancelling Headphones",
+    "purchaseDate": "18-04-2026",
+    "price": 173.54
+  },
+  {
+    "transactionId": "TXN041",
+    "customerId": "CUST008",
+    "firstName": "Ananya",
+    "lastName": "Das",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "19-04-2026",
+    "price": 111.85
+  },
+  {
+    "transactionId": "TXN042",
+    "customerId": "CUST004",
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "19-04-2026",
+    "price": 110.74
+  },
+  {
+    "transactionId": "TXN043",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "Mousepad",
+    "purchaseDate": "20-04-2026",
+    "price": 66.31
+  },
+  {
+    "transactionId": "TXN044",
+    "customerId": "CUST004",
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "21-04-2026",
+    "price": 134.31
+  },
+  {
+    "transactionId": "TXN045",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "External SSD",
+    "purchaseDate": "22-04-2026",
+    "price": 208.09
+  },
+  {
+    "transactionId": "TXN046",
+    "customerId": "CUST004",
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "23-04-2026",
+    "price": 49.75
+  },
+  {
+    "transactionId": "TXN047",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Mechanical Keyboard",
+    "purchaseDate": "23-04-2026",
+    "price": 170.16
+  },
+  {
+    "transactionId": "TXN048",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Cable Organizer",
+    "purchaseDate": "24-04-2026",
+    "price": 179.08
+  },
+  {
+    "transactionId": "TXN049",
+    "customerId": "CUST001",
+    "firstName": "Ravi",
+    "lastName": "Sharma",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "25-04-2026",
+    "price": 91.12
+  },
+  {
+    "transactionId": "TXN050",
+    "customerId": "CUST015",
+    "firstName": "Manoj",
+    "lastName": "Mehta",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "26-04-2026",
+    "price": 69.77
+  },
+  {
+    "transactionId": "TXN051",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "26-04-2026",
+    "price": 113.23
+  },
+  {
+    "transactionId": "TXN052",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "Mechanical Keyboard",
+    "purchaseDate": "27-04-2026",
+    "price": 15.25
+  },
+  {
+    "transactionId": "TXN053",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "27-04-2026",
+    "price": 107.19
+  },
+  {
+    "transactionId": "TXN054",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Mechanical Keyboard",
+    "purchaseDate": "28-04-2026",
+    "price": 30.84
+  },
+  {
+    "transactionId": "TXN055",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "28-04-2026",
+    "price": 15.32
+  },
+  {
+    "transactionId": "TXN056",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "29-04-2026",
+    "price": 153.19
+  },
+  {
+    "transactionId": "TXN057",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "29-04-2026",
+    "price": 57.77
+  },
+  {
+    "transactionId": "TXN058",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "30-04-2026",
+    "price": 26.11
+  },
+  {
+    "transactionId": "TXN059",
+    "customerId": "CUST008",
+    "firstName": "Ananya",
+    "lastName": "Das",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "30-04-2026",
+    "price": 85.81
+  },
+  {
+    "transactionId": "TXN060",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "30-04-2026",
+    "price": 229.84
+  },
+  {
+    "transactionId": "TXN061",
+    "customerId": "CUST004",
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "01-05-2026",
+    "price": 214.9
+  },
+  {
+    "transactionId": "TXN062",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "Webcam",
+    "purchaseDate": "01-05-2026",
+    "price": 135.34
+  },
+  {
+    "transactionId": "TXN063",
+    "customerId": "CUST005",
+    "firstName": "Kiran",
+    "lastName": "Rao",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "01-05-2026",
+    "price": 57.5
+  },
+  {
+    "transactionId": "TXN064",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Graphics Tablet",
+    "purchaseDate": "02-05-2026",
+    "price": 107.53
+  },
+  {
+    "transactionId": "TXN065",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "03-05-2026",
+    "price": 155.27
+  },
+  {
+    "transactionId": "TXN066",
+    "customerId": "CUST001",
+    "firstName": "Ravi",
+    "lastName": "Sharma",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "03-05-2026",
+    "price": 139.43
+  },
+  {
+    "transactionId": "TXN067",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "03-05-2026",
+    "price": 115.4
+  },
+  {
+    "transactionId": "TXN068",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Graphics Tablet",
+    "purchaseDate": "04-05-2026",
+    "price": 125.26
+  },
+  {
+    "transactionId": "TXN069",
+    "customerId": "CUST005",
+    "firstName": "Kiran",
+    "lastName": "Rao",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "04-05-2026",
+    "price": 209.13
+  },
+  {
+    "transactionId": "TXN070",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "05-05-2026",
+    "price": 59.48
+  },
+  {
+    "transactionId": "TXN071",
+    "customerId": "CUST001",
+    "firstName": "Ravi",
+    "lastName": "Sharma",
+    "productPurchased": "USB-C Hub",
+    "purchaseDate": "05-05-2026",
+    "price": 101.22
+  },
+  {
+    "transactionId": "TXN072",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "05-05-2026",
+    "price": 102.63
+  },
+  {
+    "transactionId": "TXN073",
+    "customerId": "CUST005",
+    "firstName": "Kiran",
+    "lastName": "Rao",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "07-05-2026",
+    "price": 130.9
+  },
+  {
+    "transactionId": "TXN074",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Noise Cancelling Headphones",
+    "purchaseDate": "07-05-2026",
+    "price": 162.96
+  },
+  {
+    "transactionId": "TXN075",
+    "customerId": "CUST005",
+    "firstName": "Kiran",
+    "lastName": "Rao",
+    "productPurchased": "USB-C Hub",
+    "purchaseDate": "07-05-2026",
+    "price": 33.03
+  },
+  {
+    "transactionId": "TXN076",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Webcam",
+    "purchaseDate": "07-05-2026",
+    "price": 228.74
+  },
+  {
+    "transactionId": "TXN077",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Webcam",
+    "purchaseDate": "08-05-2026",
+    "price": 10.51
+  },
+  {
+    "transactionId": "TXN078",
+    "customerId": "CUST015",
+    "firstName": "Manoj",
+    "lastName": "Mehta",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "08-05-2026",
+    "price": 42.2
+  },
+  {
+    "transactionId": "TXN079",
+    "customerId": "CUST015",
+    "firstName": "Manoj",
+    "lastName": "Mehta",
+    "productPurchased": "Cable Organizer",
+    "purchaseDate": "09-05-2026",
+    "price": 167.09
+  },
+  {
+    "transactionId": "TXN080",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "External SSD",
+    "purchaseDate": "09-05-2026",
+    "price": 126.06
+  },
+  {
+    "transactionId": "TXN081",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Cable Organizer",
+    "purchaseDate": "10-05-2026",
+    "price": 106.42
+  },
+  {
+    "transactionId": "TXN082",
+    "customerId": "CUST002",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "10-05-2026",
+    "price": 143.71
+  },
+  {
+    "transactionId": "TXN083",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "11-05-2026",
+    "price": 33.46
+  },
+  {
+    "transactionId": "TXN084",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "11-05-2026",
+    "price": 89.06
+  },
+  {
+    "transactionId": "TXN085",
+    "customerId": "CUST005",
+    "firstName": "Kiran",
+    "lastName": "Rao",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "13-05-2026",
+    "price": 98.26
+  },
+  {
+    "transactionId": "TXN086",
+    "customerId": "CUST004",
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "13-05-2026",
+    "price": 126.98
+  },
+  {
+    "transactionId": "TXN087",
+    "customerId": "CUST004",
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "productPurchased": "USB-C Hub",
+    "purchaseDate": "13-05-2026",
+    "price": 53.59
+  },
+  {
+    "transactionId": "TXN088",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Mechanical Keyboard",
+    "purchaseDate": "14-05-2026",
+    "price": 37.1
+  },
+  {
+    "transactionId": "TXN089",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "16-05-2026",
+    "price": 24.42
+  },
+  {
+    "transactionId": "TXN090",
+    "customerId": "CUST005",
+    "firstName": "Kiran",
+    "lastName": "Rao",
+    "productPurchased": "USB-C Hub",
+    "purchaseDate": "16-05-2026",
+    "price": 177.92
+  },
+  {
+    "transactionId": "TXN091",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Webcam",
+    "purchaseDate": "17-05-2026",
+    "price": 165.05
+  },
+  {
+    "transactionId": "TXN092",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "17-05-2026",
+    "price": 180.52
+  },
+  {
+    "transactionId": "TXN093",
+    "customerId": "CUST003",
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "18-05-2026",
+    "price": 131.36
+  },
+  {
+    "transactionId": "TXN094",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "18-05-2026",
+    "price": 22.26
+  },
+  {
+    "transactionId": "TXN095",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "19-05-2026",
+    "price": 179.83
+  },
+  {
+    "transactionId": "TXN096",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Noise Cancelling Headphones",
+    "purchaseDate": "19-05-2026",
+    "price": 124.7
+  },
+  {
+    "transactionId": "TXN097",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "20-05-2026",
+    "price": 157.81
+  },
+  {
+    "transactionId": "TXN098",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "20-05-2026",
+    "price": 248.55
+  },
+  {
+    "transactionId": "TXN099",
+    "customerId": "CUST008",
+    "firstName": "Ananya",
+    "lastName": "Das",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "21-05-2026",
+    "price": 76.96
+  },
+  {
+    "transactionId": "TXN100",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Graphics Tablet",
+    "purchaseDate": "21-05-2026",
+    "price": 241.7
+  },
+  {
+    "transactionId": "TXN101",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "22-05-2026",
+    "price": 248.03
+  },
+  {
+    "transactionId": "TXN102",
+    "customerId": "CUST015",
+    "firstName": "Manoj",
+    "lastName": "Mehta",
+    "productPurchased": "External SSD",
+    "purchaseDate": "22-05-2026",
+    "price": 205.61
+  },
+  {
+    "transactionId": "TXN103",
+    "customerId": "CUST003",
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "24-05-2026",
+    "price": 127.93
+  },
+  {
+    "transactionId": "TXN104",
+    "customerId": "CUST003",
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "productPurchased": "External SSD",
+    "purchaseDate": "24-05-2026",
+    "price": 120.89
+  },
+  {
+    "transactionId": "TXN105",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "25-05-2026",
+    "price": 228.11
+  },
+  {
+    "transactionId": "TXN106",
+    "customerId": "CUST008",
+    "firstName": "Ananya",
+    "lastName": "Das",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "26-05-2026",
+    "price": 36.69
+  },
+  {
+    "transactionId": "TXN107",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Cable Organizer",
+    "purchaseDate": "26-05-2026",
+    "price": 248.86
+  },
+  {
+    "transactionId": "TXN108",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "27-05-2026",
+    "price": 69.24
+  },
+  {
+    "transactionId": "TXN109",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "27-05-2026",
+    "price": 216.89
+  },
+  {
+    "transactionId": "TXN110",
+    "customerId": "CUST008",
+    "firstName": "Ananya",
+    "lastName": "Das",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "28-05-2026",
+    "price": 204.99
+  },
+  {
+    "transactionId": "TXN111",
+    "customerId": "CUST002",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "productPurchased": "Webcam",
+    "purchaseDate": "28-05-2026",
+    "price": 151.39
+  },
+  {
+    "transactionId": "TXN112",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "External SSD",
+    "purchaseDate": "28-05-2026",
+    "price": 97.76
+  },
+  {
+    "transactionId": "TXN113",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "29-05-2026",
+    "price": 214.64
+  },
+  {
+    "transactionId": "TXN114",
+    "customerId": "CUST008",
+    "firstName": "Ananya",
+    "lastName": "Das",
+    "productPurchased": "Mechanical Keyboard",
+    "purchaseDate": "29-05-2026",
+    "price": 209.58
+  },
+  {
+    "transactionId": "TXN115",
+    "customerId": "CUST001",
+    "firstName": "Ravi",
+    "lastName": "Sharma",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "29-05-2026",
+    "price": 232.55
+  },
+  {
+    "transactionId": "TXN116",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Mousepad",
+    "purchaseDate": "30-05-2026",
+    "price": 113.52
+  },
+  {
+    "transactionId": "TXN117",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "30-05-2026",
+    "price": 205.86
+  },
+  {
+    "transactionId": "TXN118",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Mousepad",
+    "purchaseDate": "31-05-2026",
+    "price": 239.61
+  },
+  {
+    "transactionId": "TXN119",
+    "customerId": "CUST002",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "productPurchased": "Mousepad",
+    "purchaseDate": "31-05-2026",
+    "price": 204.8
+  },
+  {
+    "transactionId": "TXN120",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "31-05-2026",
+    "price": 180.68
+  },
+  {
+    "transactionId": "TXN121",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Noise Cancelling Headphones",
+    "purchaseDate": "01-06-2026",
+    "price": 211.51
+  },
+  {
+    "transactionId": "TXN122",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "01-06-2026",
+    "price": 196.1
+  },
+  {
+    "transactionId": "TXN123",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "01-06-2026",
+    "price": 64.97
+  },
+  {
+    "transactionId": "TXN124",
+    "customerId": "CUST002",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "01-06-2026",
+    "price": 145.84
+  },
+  {
+    "transactionId": "TXN125",
+    "customerId": "CUST015",
+    "firstName": "Manoj",
+    "lastName": "Mehta",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "02-06-2026",
+    "price": 208.06
+  },
+  {
+    "transactionId": "TXN126",
+    "customerId": "CUST008",
+    "firstName": "Ananya",
+    "lastName": "Das",
+    "productPurchased": "HDMI Cable",
+    "purchaseDate": "03-06-2026",
+    "price": 236.18
+  },
+  {
+    "transactionId": "TXN127",
+    "customerId": "CUST005",
+    "firstName": "Kiran",
+    "lastName": "Rao",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "03-06-2026",
+    "price": 153.33
+  },
+  {
+    "transactionId": "TXN128",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "04-06-2026",
+    "price": 129.54
+  },
+  {
+    "transactionId": "TXN129",
+    "customerId": "CUST001",
+    "firstName": "Ravi",
+    "lastName": "Sharma",
+    "productPurchased": "USB-C Hub",
+    "purchaseDate": "04-06-2026",
+    "price": 33.91
+  },
+  {
+    "transactionId": "TXN130",
+    "customerId": "CUST001",
+    "firstName": "Ravi",
+    "lastName": "Sharma",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "05-06-2026",
+    "price": 34.79
+  },
+  {
+    "transactionId": "TXN131",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Noise Cancelling Headphones",
+    "purchaseDate": "06-06-2026",
+    "price": 194.14
+  },
+  {
+    "transactionId": "TXN132",
+    "customerId": "CUST005",
+    "firstName": "Kiran",
+    "lastName": "Rao",
+    "productPurchased": "Mousepad",
+    "purchaseDate": "06-06-2026",
+    "price": 106.52
+  },
+  {
+    "transactionId": "TXN133",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "Graphics Tablet",
+    "purchaseDate": "06-06-2026",
+    "price": 190.44
+  },
+  {
+    "transactionId": "TXN134",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "07-06-2026",
+    "price": 231.78
+  },
+  {
+    "transactionId": "TXN135",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "08-06-2026",
+    "price": 50.97
+  },
+  {
+    "transactionId": "TXN136",
+    "customerId": "CUST002",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "productPurchased": "Noise Cancelling Headphones",
+    "purchaseDate": "09-06-2026",
+    "price": 111.12
+  },
+  {
+    "transactionId": "TXN137",
+    "customerId": "CUST003",
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "productPurchased": "Cable Organizer",
+    "purchaseDate": "09-06-2026",
+    "price": 220.47
+  },
+  {
+    "transactionId": "TXN138",
+    "customerId": "CUST003",
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "productPurchased": "USB-C Hub",
+    "purchaseDate": "09-06-2026",
+    "price": 17.94
+  },
+  {
+    "transactionId": "TXN139",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Graphics Tablet",
+    "purchaseDate": "09-06-2026",
+    "price": 81.23
+  },
+  {
+    "transactionId": "TXN140",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "10-06-2026",
+    "price": 10.96
+  },
+  {
+    "transactionId": "TXN141",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Webcam",
+    "purchaseDate": "10-06-2026",
+    "price": 73.84
+  },
+  {
+    "transactionId": "TXN142",
+    "customerId": "CUST001",
+    "firstName": "Ravi",
+    "lastName": "Sharma",
+    "productPurchased": "Graphics Tablet",
+    "purchaseDate": "11-06-2026",
+    "price": 78.83
+  },
+  {
+    "transactionId": "TXN143",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "Cable Organizer",
+    "purchaseDate": "12-06-2026",
+    "price": 45.98
+  },
+  {
+    "transactionId": "TXN144",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "12-06-2026",
+    "price": 147.27
+  },
+  {
+    "transactionId": "TXN145",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "External SSD",
+    "purchaseDate": "12-06-2026",
+    "price": 193.01
+  },
+  {
+    "transactionId": "TXN146",
+    "customerId": "CUST007",
+    "firstName": "Suresh",
+    "lastName": "Verma",
+    "productPurchased": "Noise Cancelling Headphones",
+    "purchaseDate": "13-06-2026",
+    "price": 31.92
+  },
+  {
+    "transactionId": "TXN147",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "External SSD",
+    "purchaseDate": "13-06-2026",
+    "price": 109.48
+  },
+  {
+    "transactionId": "TXN148",
+    "customerId": "CUST002",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "productPurchased": "External SSD",
+    "purchaseDate": "14-06-2026",
+    "price": 32.51
+  },
+  {
+    "transactionId": "TXN149",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "External SSD",
+    "purchaseDate": "14-06-2026",
+    "price": 159.51
+  },
+  {
+    "transactionId": "TXN150",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "Mechanical Keyboard",
+    "purchaseDate": "15-06-2026",
+    "price": 210.91
+  },
+  {
+    "transactionId": "TXN151",
+    "customerId": "CUST006",
+    "firstName": "Meera",
+    "lastName": "Iyer",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "15-06-2026",
+    "price": 172.59
+  },
+  {
+    "transactionId": "TXN152",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "16-06-2026",
+    "price": 55.11
+  },
+  {
+    "transactionId": "TXN153",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "Cable Organizer",
+    "purchaseDate": "16-06-2026",
+    "price": 45.38
+  },
+  {
+    "transactionId": "TXN154",
+    "customerId": "CUST001",
+    "firstName": "Ravi",
+    "lastName": "Sharma",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "16-06-2026",
+    "price": 152.81
+  },
+  {
+    "transactionId": "TXN155",
+    "customerId": "CUST002",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "17-06-2026",
+    "price": 199.36
+  },
+  {
+    "transactionId": "TXN156",
+    "customerId": "CUST003",
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "productPurchased": "USB-C Hub",
+    "purchaseDate": "17-06-2026",
+    "price": 66.71
+  },
+  {
+    "transactionId": "TXN157",
+    "customerId": "CUST015",
+    "firstName": "Manoj",
+    "lastName": "Mehta",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "18-06-2026",
+    "price": 117.99
+  },
+  {
+    "transactionId": "TXN158",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Bluetooth Speaker",
+    "purchaseDate": "18-06-2026",
+    "price": 106.67
+  },
+  {
+    "transactionId": "TXN159",
+    "customerId": "CUST002",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "18-06-2026",
+    "price": 239.04
+  },
+  {
+    "transactionId": "TXN160",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "19-06-2026",
+    "price": 219.13
+  },
+  {
+    "transactionId": "TXN161",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "20-06-2026",
+    "price": 206.51
+  },
+  {
+    "transactionId": "TXN162",
+    "customerId": "CUST009",
+    "firstName": "Vikram",
+    "lastName": "Menon",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "21-06-2026",
+    "price": 170.72
+  },
+  {
+    "transactionId": "TXN163",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "22-06-2026",
+    "price": "44.5"
+  },
+  {
+    "transactionId": "TXN164",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "USB-C Hub",
+    "purchaseDate": "22-06-2026",
+    "price": 242.25
+  },
+  {
+    "transactionId": "TXN165",
+    "customerId": "CUST016",
+    "firstName": "Anjali",
+    "lastName": "Bose",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "22-06-2026",
+    "price": 129.19
+  },
+  {
+    "transactionId": "TXN166",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "Mousepad",
+    "purchaseDate": "23-06-2026",
+    "price": 221.13
+  },
+  {
+    "transactionId": "TXN167",
+    "customerId": "CUST005",
+    "firstName": "Kiran",
+    "lastName": "Rao",
+    "productPurchased": "Monitor Arm",
+    "purchaseDate": "23-06-2026",
+    "price": 233.75
+  },
+  {
+    "transactionId": "TXN168",
+    "customerId": "CUST004",
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "productPurchased": "Wireless Charger",
+    "purchaseDate": "23-06-2026",
+    "price": 198.76
+  },
+  {
+    "transactionId": "TXN169",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Cable Organizer",
+    "purchaseDate": "24-06-2026",
+    "price": 17.55
+  },
+  {
+    "transactionId": "TXN170",
+    "customerId": "CUST004",
+    "firstName": "Sneha",
+    "lastName": "Patel",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "24-06-2026",
+    "price": 248.63
+  },
+  {
+    "transactionId": "TXN171",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "Noise Cancelling Headphones",
+    "purchaseDate": "25-06-2026",
+    "price": 154.58
+  },
+  {
+    "transactionId": "TXN172",
+    "customerId": "CUST012",
+    "firstName": "Pooja",
+    "lastName": "Gupta",
+    "productPurchased": "Laptop Cooling Pad",
+    "purchaseDate": "26-06-2026",
+    "price": 108.95
+  },
+  {
+    "transactionId": "TXN173",
+    "customerId": "CUST014",
+    "firstName": "Neha",
+    "lastName": "Choudhary",
+    "productPurchased": "External SSD",
+    "purchaseDate": "26-06-2026",
+    "price": 164.88
+  },
+  {
+    "transactionId": "TXN174",
+    "customerId": "CUST011",
+    "firstName": "Rahul",
+    "lastName": "Joshi",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "27-06-2026",
+    "price": 119.96
+  },
+  {
+    "transactionId": "TXN175",
+    "customerId": "CUST013",
+    "firstName": "Karthik",
+    "lastName": "Pillai",
+    "productPurchased": "Mousepad",
+    "purchaseDate": "27-06-2026",
+    "price": 129.68
+  },
+  {
+    "transactionId": "TXN176",
+    "customerId": "CUST015",
+    "firstName": "Manoj",
+    "lastName": "Mehta",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "28-06-2026",
+    "price": 246.11
+  },
+  {
+    "transactionId": "TXN177",
+    "customerId": "CUST003",
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "productPurchased": "Wireless Mouse",
+    "purchaseDate": "29-06-2026",
+    "price": 174.76
+  },
+  {
+    "transactionId": "TXN178",
+    "customerId": "CUST002",
+    "firstName": "Priya",
+    "lastName": "Reddy",
+    "productPurchased": "Power Bank",
+    "purchaseDate": "30-06-2026",
+    "price": 79.42
+  },
+  {
+    "transactionId": "TXN179",
+    "customerId": "CUST010",
+    "firstName": "Divya",
+    "lastName": "Kapoor",
+    "productPurchased": "Laptop Stand",
+    "purchaseDate": "30-06-2026",
+    "price": 28.95
+  },
+  {
+    "transactionId": "TXN180",
+    "customerId": "CUST003",
+    "firstName": "Arjun",
+    "lastName": "Nair",
+    "productPurchased": "Mousepad",
+    "purchaseDate": "30-06-2026",
+    "price": 154.81
+  }
+]
