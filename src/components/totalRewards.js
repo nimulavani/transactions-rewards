@@ -47,6 +47,7 @@ export default function totalRewards({ totalTransactionalRewards, loading }) {
                 sx={{ border: 0 }}
                 getRowId={(row) => row.id}
                 loading={loading}
+                pageSizeOptions={[5, 10, 20]}
             />
         </Box>
     );

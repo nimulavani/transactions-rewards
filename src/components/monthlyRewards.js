@@ -62,10 +62,15 @@ export default function monthlyRewards({ monthlyTransactionalRewards, loading })
             <DataGrid
                 rows={monthlyTransactionalRewards}
                 columns={columns}
-                initialState={{ pagination: { paginationModel } }}
+                initialState={{
+                    pagination: { paginationModel }, sorting: {
+                        sortModel: [{ field: 'month', sort: 'desc' }],
+                    },
+                }}
                 sx={{ border: 0 }}
                 getRowId={(row) => row.id}
                 loading={loading}
+                pageSizeOptions={[5, 10, 20]}
             />
         </Box>
     );

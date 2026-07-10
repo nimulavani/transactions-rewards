@@ -70,10 +70,15 @@ export default function Transactions({ transactions, loading }) {
             <DataGrid
                 rows={transactions}
                 columns={columns}
-                initialState={{ pagination: { paginationModel } }}
+                initialState={{
+                    pagination: { paginationModel }, sorting: {
+                        sortModel: [{ field: 'purchaseDate', sort: 'desc' }],
+                    },
+                }}
                 sx={{ border: 0 }}
                 getRowId={(row) => row.transactionId}
                 loading={loading}
+                pageSizeOptions={[5, 10, 20]}
             />
         </Box>
     )
