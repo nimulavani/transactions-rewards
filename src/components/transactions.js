@@ -37,7 +37,10 @@ const columns = [
             return isPriceValid(value) ? value : null;
         },
         valueFormatter: (value) => {
-            return isPriceValid(value) ? new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD' }).format(value) : "Invalid price";
+            return isPriceValid(value) ? new Intl.NumberFormat('en-US', {
+                style: 'currency', currency: 'USD', maximumFractionDigits: 2,
+                roundingMode: 'trunc'
+            }).format(value) : "Invalid price";
         },
         cellClassName: (params) => !isPriceValid(params.value) && 'invalid',
         type: 'number',
@@ -78,7 +81,7 @@ export default function Transactions({ transactions, loading }) {
                 sx={{ border: 0 }}
                 getRowId={(row) => row.transactionId}
                 loading={loading}
-                pageSizeOptions={[5, 10, 20]}
+                pageSizeOptions={[10, 50, 100]}
             />
         </Box>
     )

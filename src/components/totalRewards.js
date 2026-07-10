@@ -18,7 +18,10 @@ const columns = [
         headerName: 'Total Amount ($)',
         width: 200,
         valueFormatter: (value) => {
-            return new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD' }).format(value);
+            return new Intl.NumberFormat('en-US', {
+                style: 'currency', currency: 'USD', maximumFractionDigits: 2,
+                roundingMode: 'trunc'
+            }).format(value);
         },
         type: 'number',
     },

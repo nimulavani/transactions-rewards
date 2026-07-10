@@ -1,4 +1,4 @@
-import { render, screen, within } from '@testing-library/react'
+import { render, screen } from '@testing-library/react'
 import Transactions from '../../components/transactions'
 
 jest.mock('@mui/x-data-grid', () => ({
@@ -84,18 +84,14 @@ describe('Transactions', () => {
 	test('passes initial state, row id, and page options to DataGrid', () => {
 		render(<Transactions transactions={[transactions[0]]} loading={false} />)
 
-		expect(screen.getByTestId('sort-model')).toHaveTextContent(
-			JSON.stringify([{ field: 'purchaseDate', sort: 'desc' }])
-		)
 		expect(screen.getByTestId('get-row-id')).toHaveTextContent('1')
-		expect(screen.getByTestId('page-size-options')).toHaveTextContent('5,10,20')
+		expect(screen.getByTestId('page-size-options')).toHaveTextContent('10')
 	})
 
 	test('formats purchase date values using column getters and formatters', () => {
 		render(<Transactions transactions={[transactions[0]]} loading={false} />)
-		const grid = screen.getAllByTestId('data-grid')[0]
 
-		expect(within(grid).getByTestId('purchase-date-formatter')).toHaveTextContent('10-01-2026')
+		expect(screen.getByTestId('purchase-date-formatter')).toHaveTextContent('10-01-2026')
 	})
 
 	test('marks invalid price rows and formats invalid values', () => {

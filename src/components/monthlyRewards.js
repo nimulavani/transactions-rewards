@@ -36,7 +36,10 @@ const columns = [
         headerName: 'Total Amount ($)',
         width: 150,
         valueFormatter: (value) => {
-            return new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD' }).format(value);
+            return new Intl.NumberFormat('en-US', {
+                style: 'currency', currency: 'USD', maximumFractionDigits: 2,
+                roundingMode: 'trunc'
+            }).format(value);
         },
         type: 'number',
     },
@@ -70,7 +73,7 @@ export default function monthlyRewards({ monthlyTransactionalRewards, loading })
                 sx={{ border: 0 }}
                 getRowId={(row) => row.id}
                 loading={loading}
-                pageSizeOptions={[5, 10, 20]}
+                pageSizeOptions={[10, 20, 50]}
             />
         </Box>
     );

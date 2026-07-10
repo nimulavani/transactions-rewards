@@ -44,7 +44,7 @@ function App() {
       //transactions data
       const customerName = String([transaction.firstName, transaction.lastName].filter(Boolean).join(' ')).trim();
       const rewardPoints = calculateTransactionRewards(transaction.price);
-      const formattedPrice = isPriceValid(transaction.price) ? Math.trunc(transaction.price) : 0;
+      const formattedPrice = isPriceValid(transaction.price) ? transaction.price : 0;
       const formattedRewards= rewardPoints !== null ? rewardPoints : 0;
       //monthly data
       const month = getMonthYearLabel(transaction.purchaseDate)
